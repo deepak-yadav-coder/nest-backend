@@ -6,7 +6,3 @@ async function bootstrap() {
   await app.listen(process.env.PORT ?? 3000);
 }
 bootstrap();
-//Third commit
-//this line is added on gihub for testing purpose.
-//fifth commit
-//sixth commit
